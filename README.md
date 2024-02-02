@@ -2,8 +2,7 @@
 Temporary repository for double-blind peer review
 
 ## Extended Double Bass Technique Samples
-
-High quality samples of the double bass extended techniques chosen from the personal vocabulary of the musician can be find in the `SoundDemos` folder.  
+High-quality samples of the double bass extended techniques chosen from the personal vocabulary of the musician can be found in the `SoundDemos` folder.  
 Here are quick previous of the three techniques:
 
 *Sfregato con Legno*
