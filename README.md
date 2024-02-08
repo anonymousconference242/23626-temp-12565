@@ -1,5 +1,10 @@
 ﻿# *Esteso*
-Temporary repository for double-blind peer review
+Temporary repository for double-blind peer review.
+
+Demo video at [https://youtu.be/NFJufro7VCY](https://youtu.be/NFJufro7VCY)
+
+[![Watch the video](https://img.youtube.com/vi/NFJufro7VCY/maxresdefault.jpg)](https://youtu.be/NFJufro7VCY)
+
 
 ## Extended Double Bass Technique Samples
 High-quality samples of the double bass extended techniques chosen from the personal vocabulary of the musician can be found in the `SoundDemos` folder.  
