@@ -15,7 +15,7 @@ Demo video at [https://youtu.be/NFJufro7VCY](https://youtu.be/NFJufro7VCY)
 ## Extended Double Bass Techniques
 
 - _"Brushed" Jeté_: Jeté (or Ricochet technique) with brushed characteristics, introduced with careful use of bow actions and angle.
-- _Sfregato con legno_: Open string are struck and the wood part of the bow is slid along the string from the bridge, barely making contact with it. It introduces a peculiar buzzing sound. 
+- _Sfregato con legno_: Open strings are struck and the wood part of the bow is slid along the string from the bridge, barely making contact with it. It introduces a peculiar buzzing sound. 
 - _Percussive_: Collection of different percussive hits on the instrument's body. The hand parts used are fingertips, palms, knuckles, and closed fists. The parts hit are the wooden body, plastic tailpiece, and fingerboard.
 
 
@@ -44,6 +44,13 @@ https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f765
 <img src="https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/fcaacc72-1b0d-4b84-ba20-4ccdba9e7694" width="50%" >
 
 https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/d0ff811e-55bd-472e-b9b8-9f52f7fff881
+
+
+## Timbre-transfer model
+
+We employed a [RAVE](https://github.com/acids-ircam/RAVE) timbre transfer model trained on double-bass sounds from the OrchideaSOL dataset.
+We precisely chose to use it as it produced a peculiar hybrid double-bass sound when processing real double-bass recordings.
+Samples for each technique are present in the `SoundDemos\timbre_transfer_demo_extended_techniques` folder.
 
 
 ---
