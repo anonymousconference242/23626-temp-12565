@@ -1,5 +1,8 @@
-﻿# *Esteso*
-Temporary repository for double-blind peer review.
+﻿# Additional material for the paper < *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques >
+**Temporary repository for double-blind peer review.**
+
+![us-anonymized](https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/5fecde41-dc81-45db-a4b8-8732fd14d5a6)
+
 
 Demo video at [https://youtu.be/NFJufro7VCY](https://youtu.be/NFJufro7VCY)
 
